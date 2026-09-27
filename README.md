@@ -6,7 +6,7 @@ This project simulates a real-world contact centre for Energy Plus, a fictional 
 
 The business relied on manual spreadsheets and inconsistent reporting, making it difficult for leadership to monitor operational performance, sales activity, service levels, and agent productivity.
 
-To address this challenge, I designed and developed an interactive Power BI dashboard using SQL Server as the data source.
+To address this challenge, I designed and developed an interactive Power BI dashboard using SQL as the data source.
 
 The solution provides a centralised view of contact centre performance, allowing managers to monitor KPIs, track sales and service metrics, identify performance trends, and make data-driven decisions.
 
@@ -136,8 +136,12 @@ SELECT
     A.effective_end_date
 FROM call_stats C
 INNER JOIN connection_stats S ON S.agent_id = C.agent_id  AND C.date = S.date
-INNER JOIN agent_info A ON A.agent_id = C.agent_id AND C.date >= A.effective_start_date AND C.date <= A.effective_end_date; 
+INNER JOIN agent_info A ON A.agent_id = C.agent_id
+AND C.date >= A.effective_start_date AND C.date <= A.effective_end_date; -- Agents remain correctly attributed when moving between teams.
 ```
+
+<img width="1774" height="887" alt="Key challenge and solution Contact Centre KPI Dashboard" src="https://github.com/user-attachments/assets/a16ef438-0b8a-434b-aec6-2c70ac5c013a" />
+
 
 ---------------------------------------------------------------------------------------------
 
