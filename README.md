@@ -170,8 +170,7 @@ The primary focus is the Connection KPI (target: 1,800 connections per month) an
 
 **Trend Analysis:** Track performance over time to identify trends, seasonal patterns, and potential issues early.
 
-<img width="1418" height="800" alt="Contact Centre Operations" src="https://github.com/user-attachments/assets/2ece02bb-e77a-4c9d-bc5d-e882ef04cc1e" />
-
+<img width="1487" height="827" alt="Contact Centre Dashboard page 1" src="https://github.com/user-attachments/assets/9a962727-6aca-497b-8c67-9d3e2e4b495b" />
 
 - Agent Operations
   
@@ -185,7 +184,7 @@ The dashboard helps managers recognise top performers, identify agents who need 
 
 **Recognition:** Easily identify high-performing agents for reward and recognition.
 
-<img width="1417" height="797" alt="Agent Operations" src="https://github.com/user-attachments/assets/0507c550-8803-450b-90b1-035a95ac73ba" />
+<img width="1489" height="831" alt="Contact Centre Dashboard page 2" src="https://github.com/user-attachments/assets/078e1d2d-65a7-494e-bb0c-eefe6cddcf79" />
 
 
 - Team Operations
@@ -200,7 +199,8 @@ This page gives team leaders a complete view of team performance, allowing them 
 
 **Faster Decision Making:** Save time with a single, consolidated view of team performance.
 
-<img width="1417" height="794" alt="Team Operations" src="https://github.com/user-attachments/assets/904a10ae-610d-4304-9fc8-8854a25ccd12" />
+<img width="1486" height="819" alt="Contact Centre Dashboard page 3" src="https://github.com/user-attachments/assets/6952ec2b-fa7f-49e3-99f2-d3edc2085b5e" />
+
 
 - Cross-Team Performance
 
@@ -214,7 +214,7 @@ This page provides senior managers with a comparison of team performance across 
 
 **Better Decision Making:** Use insights to guide coaching, resource allocation, and process improvements.
 
-<img width="1411" height="783" alt="Cross-Team Performance" src="https://github.com/user-attachments/assets/daecb984-e8fd-49a3-85cf-5475db19a28f" />
+<img width="1479" height="824" alt="Contact Centre Dashboard page 4" src="https://github.com/user-attachments/assets/bfe5c6d0-84ca-40de-b366-26d0cdcb833f" />
 
 
 Each page is designed for a different level of analysis, allowing users to move from high-level business performance down to individual agent results.
